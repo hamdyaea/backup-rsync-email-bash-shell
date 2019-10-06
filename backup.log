@@ -1,0 +1,11 @@
+This is the backup of the home folder 
+2019-10-06 20:19:35
+sending incremental file list
+hamdy/
+hamdy/Documents/backup/backup.bash
+            353 100%    0.00kB/s    0:00:00              353 100%    0.00kB/s    0:00:00 (xfr#1, ir-chk=1022/7359)
+hamdy/Documents/backup/backup.log
+            248 100%  242.19kB/s    0:00:00              248 100%  242.19kB/s    0:00:00 (xfr#2, ir-chk=1021/7359)
+
+sent 5,269,802 bytes  received 20,298 bytes  285,951.35 bytes/sec
+total size is 91,575,184,755  speedup is 17,310.67

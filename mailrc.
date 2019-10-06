@@ -1,0 +1,7 @@
+set smtp-use-starttls
+set ssl-verify=ignore
+set smtp=smtp://smtp.gmail.com:587
+set smtp-auth=login
+set smtp-auth-user=hamdy.camera
+set smtp-auth-password=xxxxxxxx
+set from=hamdy.camera@gmail.com
